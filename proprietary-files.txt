@@ -643,12 +643,6 @@ vendor/lib64/libtinyxml2_1.so|e857c0b21b031625e7f3c2735a31330706e05b6e
 vendor/lib/hw/vulkan.adreno.so|7bc74a78ad5dcceed492a1a71c9f4792a9871c19
 vendor/lib64/hw/vulkan.adreno.so|c3c0c344724bc1810f10b094b7f6c496ad2c86c5
 
-# HotwordEnrollment - from blueline-user 12 SP1A.210812.016.C2 8618562 release-keys
--product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk|7161356d39a17b52e4464f598bc106fc88566007
--product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk|a329a2d5fe984cb016c9cd764d97ce01bd42ff9a
-system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml|563a58554d9c0dd0608552b644fbf74519a447bb
-system_ext/framework/com.android.hotwordenrollment.common.util.jar|c764b636e0be426a66be09dd08ab9c1921327ef0
-
 # IRQ balance - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
 vendor/bin/msm_irqbalance|33325d1b5bd1c4fdfa964f638da633ef8ca1ac43
 
