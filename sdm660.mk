@@ -390,6 +390,8 @@ PRODUCT_PACKAGES += \
     SDM660CarrierConfigOverlay \
     SDM660DialerOverlay \
     SDM660FrameworksOverlay \
+    SDM660RILFrameworksOverlay \
+    SDM660RILSettingsOverlay \
     SDM660SettingsOverlay \
     SDM660SettingsProviderOverlay \
     SDM660SystemUIOverlay \
